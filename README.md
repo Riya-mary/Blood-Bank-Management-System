@@ -31,7 +31,7 @@ To set up the BBMS application with XAMPP in your Linux environment, follow thes
 1. Clone the repository into your local machine in the directory where your PHP web server is serving files. In my case, it's located in `/opt/lampp/htdocs`.
 
    ```bash
-   git clone https://github.com/Riya-mary/BBMS.git
+   git clone https://github.com/Riya-mary/Blood-Bank-Management-System.git
    ```
 
 2. Go to the phpMyAdmin in your web browser at
